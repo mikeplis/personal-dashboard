@@ -10,9 +10,38 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <div className="App-intro">
+          <ul>
+              <li>Programming
+                  <ul>
+                      <li><a href="https://github.com/trending">Github trending repositories</a></li>
+                      <li><a href="https://news.ycombinator.com/">Hacker News</a></li>
+                      <li><a href="https://www.reddit.com/r/javascript+programming+reactjs+webdev/">Reddit programming</a></li>
+                  </ul>
+              </li>
+              <li>Sports
+                  <ul>
+                      <li><a href="http://www.rotoworld.com/">Rotoworld</a></li>
+                      <li><a href="https://www.reddit.com/r/nfl+nba+hockey+baseball+CollegeBasketball+cfb/">Reddit sports</a></li>
+                  </ul>
+              </li>
+              <li>Politics
+                  <ul>
+                      <li><a href="http://www.allsides.com/">AllSides</a></li>
+                      <li><a href="http://www.politico.com/">Politico</a></li>
+                      <li><a href="https://fivethirtyeight.com/politics/">FiveThirtyEight</a></li>
+                      <li><a href="http://www.npr.org/sections/politics/">NPR News</a></li>
+                      <li><a href="https://www.theatlantic.com/politics/">The Atlantic</a></li>
+                  </ul>
+              </li>
+              <li>Misc
+                  <ul>
+                      <li><a href="https://getpocket.com">Pocket</a></li>
+                      <li><a href="https://medium.com/">Medium</a></li>
+                  </ul>
+              </li>
+          </ul>
+        </div>
       </div>
     );
   }
