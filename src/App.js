@@ -36,6 +36,7 @@ class App extends Component {
               </li>
               <li>Misc
                   <ul>
+                      <li><a href="https://github.com/markerikson/react-redux-links">react-redux-links</a></li>
                       <li><a href="https://getpocket.com">Pocket</a></li>
                       <li><a href="https://medium.com/">Medium</a></li>
                   </ul>
