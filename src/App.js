@@ -16,6 +16,7 @@ class App extends Component {
                   <ul>
                       <li><a href="https://github.com/trending">Github trending repositories</a></li>
                       <li><a href="https://news.ycombinator.com/">Hacker News</a></li>
+                      <li><a href="https://github.com/markerikson/react-redux-links">react-redux-links</a></li>
                       <li><a href="https://www.reddit.com/r/javascript+programming+reactjs+webdev/">Reddit programming</a></li>
                   </ul>
               </li>
@@ -36,7 +37,6 @@ class App extends Component {
               </li>
               <li>Misc
                   <ul>
-                      <li><a href="https://github.com/markerikson/react-redux-links">react-redux-links</a></li>
                       <li><a href="https://getpocket.com">Pocket</a></li>
                       <li><a href="https://medium.com/">Medium</a></li>
                   </ul>
