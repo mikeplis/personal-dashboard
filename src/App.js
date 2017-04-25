@@ -17,12 +17,14 @@ class App extends Component {
                       <li><a href="https://github.com/trending">Github trending repositories</a></li>
                       <li><a href="https://news.ycombinator.com/">Hacker News</a></li>
                       <li><a href="https://github.com/markerikson/react-redux-links">react-redux-links</a></li>
+                      <li><a href="https://discordapp.com/channels/102860784329052160/102860784329052160">reactiflux</a></li>
                       <li><a href="https://www.reddit.com/r/javascript+programming+reactjs+webdev/">Reddit programming</a></li>
                   </ul>
               </li>
               <li>Sports
                   <ul>
-                      <li><a href="http://www.rotoworld.com/">Rotoworld</a></li>
+                      <li><a href="http://rotoworld.com/sports/nfl/football">Rotoworld NFL</a></li>
+                      <li><a href="http://www.thescore.com/trending">theScore</a></li>
                       <li><a href="https://www.reddit.com/r/nfl+nba+hockey+baseball+CollegeBasketball+cfb/">Reddit sports</a></li>
                   </ul>
               </li>
@@ -30,6 +32,7 @@ class App extends Component {
                   <ul>
                       <li><a href="http://www.allsides.com/">AllSides</a></li>
                       <li><a href="http://www.politico.com/">Politico</a></li>
+                      <li><a href="http://www.politifact.com/">Politifact</a></li>
                       <li><a href="https://fivethirtyeight.com/politics/">FiveThirtyEight</a></li>
                       <li><a href="http://www.npr.org/sections/politics/">NPR News</a></li>
                       <li><a href="https://www.theatlantic.com/politics/">The Atlantic</a></li>
